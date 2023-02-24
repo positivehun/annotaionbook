@@ -19,5 +19,5 @@
 |[@PreAuthorize](https://positiv-log.tistory.com/70)|	메서드 호출 전에 인증 및 권한 검사를 수행하기 위해 사용되는 어노테이션|
 |@PostAuthorize	|메서드 호출 후에 인증 및 권한 검사를 수행하기 위해 사용되는 어노테이션|
 |[@Async](https://positiv-log.tistory.com/87)	|비동기적으로 메서드를 호출하기 위해 사용되는 어노테이션|
-|[@Scheduled](ttps://positiv-log.tistory.com/88)|주기적으로 메서드를 호출하기 위해 사용되는 어노테이션|
+|[@Scheduled](https://positiv-log.tistory.com/88)|주기적으로 메서드를 호출하기 위해 사용되는 어노테이션|
 |[@ExceptionHandler](https://positiv-log.tistory.com/89)|	예외 처리를 위해 사용되는 어노테이션|
